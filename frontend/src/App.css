@@ -2,6 +2,21 @@
  body{
   background: #EBECF0;
  } 
+.pad{
+  padding: 50px;
+}
+.bor{
+  border: 2px solid gray;
+  padding: 50px;
+}
+.parr{
+  position: relative;
+}
+.ed{
+  position: absolute;
+  right: 50px;
+  top: 0;
+}
 .select-container{
   text-align: center;
   padding-top: 2%;
